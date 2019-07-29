@@ -82,6 +82,12 @@ button {
   margin-top: 9px;
 }
 
+.navbar__address {
+  color: #333333;
+  font-size: 13px;
+  font-weight: 400;
+}
+
 @media (max-width: 760px) {
   .navbar__contacts {
     display: none;
